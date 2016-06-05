@@ -12,9 +12,9 @@ Libraries and tools included:
 - [SqlBrite](https://github.com/square/sqlbrite)
 - [Butterknife](https://github.com/JakeWharton/butterknife)
 - [Timber](https://github.com/JakeWharton/timber)
-- [Picasso](http://square.github.io/picasso/)
+- [Glide](https://github.com/bumptech/glide)
 - [Otto](http://square.github.io/otto/) event bus
-- Functional tests with [Espresso](https://code.google.com/p/android-test-kit/wiki/Espresso)
+- Functional tests with [Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html)
 - [Robolectric](http://robolectric.org/)
 - [Mockito](http://mockito.org/)
 - [Checkstyle](http://checkstyle.sourceforge.net/), [PMD](https://pmd.github.io/) and [Findbugs](http://findbugs.sourceforge.net/) for code analysis
